@@ -1,16 +1,67 @@
-## Hi there 👋
+<h2 align="center">Stack</h2>
 
-<!--
-**Crustee/Crustee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/java.svg" alt="Java" title="Java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/rust.svg" alt="Rust" title="Rust" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/python.svg" alt="Python" title="Python" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/typescript-icon.svg" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/javascript.svg" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/c-plusplus.svg" alt="C++" title="C++" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/php.svg" alt="PHP" title="PHP" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/bash-icon.svg" alt="Bash" title="Bash" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/html-5.svg" alt="HTML" title="HTML" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/css.svg" alt="CSS" title="CSS" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/go.svg" alt="Go" title="Go" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/kotlin-icon.svg" alt="Kotlin" title="Kotlin" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/lua.svg" alt="Lua" title="Lua" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/claude-code.svg" alt="Claude Code" title="Claude Code" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/claude-icon.svg" alt="Claude" title="Claude" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/openai-icon.svg" alt="OpenAI" title="OpenAI" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/mcp-icon.svg" alt="Model Context Protocol" title="Model Context Protocol" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/ollama-icon.svg" alt="Ollama" title="Ollama" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/hugging-face-icon.svg" alt="Hugging Face" title="Hugging Face" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/pytorch-icon.svg" alt="PyTorch" title="PyTorch" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/gradio-icon.svg" alt="Gradio" title="Gradio" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/react.svg" alt="React" title="React" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/tailwind-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/vue.svg" alt="Vue" title="Vue" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/svelte-icon.svg" alt="Svelte" title="Svelte" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/vite.svg" alt="Vite" title="Vite" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/mantine-icon.svg" alt="Mantine" title="Mantine" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/framer.svg" alt="Framer" title="Framer" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/nodejs-icon.svg" alt="Node.js" title="Node.js" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/fastapi-icon.svg" alt="FastAPI" title="FastAPI" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/grpc.svg" alt="gRPC" title="gRPC" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/kafka-icon.svg" alt="Apache Kafka" title="Apache Kafka" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/webrtc.svg" alt="WebRTC" title="WebRTC" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/ffmpeg-icon.svg" alt="FFmpeg" title="FFmpeg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/mysql-icon.svg" alt="MySQL" title="MySQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/mariadb-icon.svg" alt="MariaDB" title="MariaDB" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/sqlite-icon.svg" alt="SQLite" title="SQLite" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/redis-icon.svg" alt="Redis" title="Redis" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/oracle.svg" alt="Oracle" title="Oracle" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/drizzle-orm.svg" alt="Drizzle ORM" title="Drizzle ORM" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/docker-icon.svg" alt="Docker" title="Docker" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/aws.svg" alt="AWS" title="AWS" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/linux-tux.svg" alt="Linux" title="Linux" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/nginx.svg" alt="NGINX" title="NGINX" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/grafana.svg" alt="Grafana" title="Grafana" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/prometheus.svg" alt="Prometheus" title="Prometheus" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/git-icon.svg" alt="Git" title="Git" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/github-icon.svg" alt="GitHub" title="GitHub" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/visual-studio-code.svg" alt="VS Code" title="VS Code" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/cursor-icon.svg" alt="Cursor" title="Cursor" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/xcode.svg" alt="Xcode" title="Xcode" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/gradle.svg" alt="Gradle" title="Gradle" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/maven.svg" alt="Maven" title="Maven" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/blender.svg" alt="Blender" title="Blender" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/vorillaz/devicons@aeefce58cc471ae1a0f1e49931ab6c66619587c2/packages/core/export-files/icons/unrealengine-icon.svg" alt="Unreal Engine" title="Unreal Engine" height="40" />
+</p>
